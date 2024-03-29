@@ -1,0 +1,4 @@
+ls [1,1,1]
+pass
+reap 1
+exit
